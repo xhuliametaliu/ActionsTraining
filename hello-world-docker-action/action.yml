@@ -7,7 +7,7 @@ inputs:
     default: 'world'
 outputs:
   time:
-    description: 'The time we said hello.'
+    description: 'The time we said hellooo.'
 runs:
   using: 'docker'
   image: 'Dockerfile'
